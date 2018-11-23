@@ -16,7 +16,7 @@ https://lpericena.blogspot.com/2018/11/ApkDcx.html
 </p>
 
 
-Ocultar archivos comprimidos en una imagen
+
 @Pericena :+1: Autor: Luishiño Pericena Ch :shipit:
 
 Es una programa desarrollado en el lenguaje Bat.
@@ -37,7 +37,7 @@ sistema opertaivo
 * https://www.java.com/es/download/
 
 # Instalación 🔧
-Pasos para usar la aplicación MsImAOc
+Pasos para usar la aplicación 
 - Descargar MsImAOc
 - [x] https://github.com/Pericena/ApkDcx
 - [x] https://lpericena.blogspot.com/2018/11/ApkDcx.html
